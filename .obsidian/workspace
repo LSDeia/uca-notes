@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "ed6982b0c3d7595b",
+    "type": "split",
+    "children": [
+      {
+        "id": "397a83e4a13825e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Développement efficace/Arbres.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a2627f8c00c9c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4689ffb1634c0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abc5b7d37386166d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5837561d451a849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c840d4a8d54227d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1ab2b2ed93e59b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde3822d978db55e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abfde75628704f67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Développement efficace/Arbres.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28f96cb198c363f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Développement efficace/Arbres.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c7bc8229fc4cd57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4972f5ad96bca548",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Développement efficace/Arbres.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "397a83e4a13825e0",
+  "lastOpenFiles": [
+    "Méthodes Agiles/idk.md",
+    "Développement efficace/Arbres.md"
+  ]
+}
