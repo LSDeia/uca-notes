@@ -4,3 +4,20 @@
 
 # Ignore compiled binary
 a.out
+
+# Java
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# Intellij
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
