@@ -1,0 +1,6 @@
+# ---------------------------
+# .gitignore for all my notes
+# ---------------------------
+
+# Ignore compiled binary
+a.out
