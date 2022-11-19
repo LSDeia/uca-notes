@@ -1,9 +1,3 @@
----
-Notes: Lien du site BD et IA
-Notes: Dilemme du train
----
-
-
 # Intelligence Artificielle
 
 ## Pourquoi parle-t-on d'étique pour certaines IA ?
@@ -31,8 +25,6 @@ Ces IA éthiques sont indispensables dans plusieurs cas, on peut citer les IA qu
 solicité pour trier les demandes d'embauche, celles utilisé pour faire de la publicité
 ciblée ou par les assurances pour définir leurs tarifs.
 
-Elle seront aussi amenée à faire des choix cornéliens //// A CONTINUER
-
 ## Quels bénéfices et quels risques proviennent des IA ?
 
 Les IA apportent beaucoup de bénéfice, elles sont capables de surpasser tout type
@@ -41,12 +33,12 @@ s'entrainer.
 
 Quelques exemples des bénéfices de l'IA:
 
-- Détecter tout les spams de votre boite mail et la trier en fonction de vos habitudes
-- Conduire des voitures sans action humaine, réduit le risque d'accidents
-- Trouver de nouvelles molécules utile pour combattre des virus ou soigner des maladies
-- La traduction, les services en ligne de traduction les utilisent pour être toujours plus
+- __Détecter__ tout les spams de votre boite mail et la trier en fonction de vos habitudes
+- __Conduire__ des voitures sans action humaine, réduit le risque d'accidents
+- __Trouver__ de nouvelles molécules utile pour combattre des virus ou soigner des maladies
+- __Traduire__, les services en ligne de traduction les utilisent pour être toujours plus
 pertinent et paraître plus naturel.
-- Santé, savoir détecter tout types de maladies chez un patient à partir d'analyse.
+- __Sauver__, savoir détecter tout types de maladies chez un patient à partir d'analyse.
 
 Et tout ceci n'est qu'une petite partie de ce que l'IA permet, il n'y a pas de limite
 à son utilisation. Et c'est bien ceci qui peut faire peur, si une IA peut être utilisée
