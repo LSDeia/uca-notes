@@ -1,0 +1,35 @@
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Button?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.demo.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+
+    <Label fx:id="welcomeText"/>
+    <Button text="Hello!" onAction="#onHelloButtonClick"/>
+</VBox>
+
+
+<?import javafx.scene.layout.GridPane?>
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.demo.HelloController">
+    <GridPane>
+        <Button text="Vert" onAction="#onHelloButtonClick1" GridPane.columnIndex="0"
+                GridPane.rowIndex="0"/>
+        <Button text="Rouge!" onAction="#onHelloButtonClick2" GridPane.columnIndex="1"
+                GridPane.rowIndex="0"/>
+        <Button text="Jaune!" onAction="#onHelloButtonClick3" GridPane.columnIndex="0"
+                GridPane.rowIndex="1"/>
+        <Button text="Bleu!" onAction="#onHelloButtonClick4" GridPane.columnIndex="1"
+                GridPane.rowIndex="1"/>
+    </GridPane>
+</VBox>
+-->
